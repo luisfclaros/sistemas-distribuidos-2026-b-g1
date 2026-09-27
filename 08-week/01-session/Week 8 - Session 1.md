@@ -14,7 +14,7 @@
 
 Como equipo responsable de RedFish, queremos establecer acuerdos Agile y
 DevOps verificables, para entregar cambios pequenos con responsabilidades
-claras, retroalimentacion rapida y operacion compartida.
+claras, retroalimentacion rapida y operacion compartida..
 
 ---
 
