@@ -1,0 +1,30 @@
+name: W13 RedFish Security Gate
+
+on:
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: "Base URL of a disposable RedFish test instance (for example http://localhost:8080)"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  negative-authorization:
+    name: Reject unauthenticated product requests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out workshop artifacts
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run negative authorization test
+        env:
+          REDFISH_BASE_URL: ${{ inputs.base_url }}
+        run: python 13-week/workshop/04-security-ci/test_negative_authorization.py
