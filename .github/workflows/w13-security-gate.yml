@@ -1,10 +1,11 @@
-name: W13 RedFish Security Gate
+name: W13 RedFish Security Gates
 
 on:
+  pull_request:
   workflow_dispatch:
     inputs:
       base_url:
-        description: "Base URL of a disposable RedFish test instance (for example http://localhost:8080)"
+        description: "Base URL of a disposable RedFish test instance"
         required: true
         type: string
 
@@ -12,19 +13,58 @@ permissions:
   contents: read
 
 jobs:
-  negative-authorization:
-    name: Reject unauthenticated product requests
+  secret-scan:
+    name: Secret scanning with Gitleaks
     runs-on: ubuntu-latest
     steps:
-      - name: Check out workshop artifacts
+      - name: Check out workshop repository
         uses: actions/checkout@v4
+      - name: Scan for secrets
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  dependency-audit:
+    name: Dependency vulnerability audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out workshop repository
+        uses: actions/checkout@v4
+      - name: Check out RedFish source repository
+        uses: actions/checkout@v4
+        with:
+          repository: luisfclaros/RedFish
+          path: source
+      - name: Scan Gradle project dependencies
+        uses: dependency-check/Dependency-Check_Action@main
+        with:
+          project: "RedFish"
+          path: "source/RedFish"
+          format: "HTML"
+          args: "--failOnCVSS 7"
+
+  negative-authorization:
+    name: Negative authorization test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out workshop repository
+        uses: actions/checkout@v4
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Run negative authorization test
+      - name: Require a disposable test URL
         env:
-          REDFISH_BASE_URL: ${{ inputs.base_url }}
+          INPUT_BASE_URL: ${{ inputs.base_url }}
+          REPO_BASE_URL: ${{ vars.REDFISH_BASE_URL }}
+        run: |
+          if [ -n "$INPUT_BASE_URL" ]; then
+            echo "REDFISH_BASE_URL=$INPUT_BASE_URL" >> "$GITHUB_ENV"
+          elif [ -n "$REPO_BASE_URL" ]; then
+            echo "REDFISH_BASE_URL=$REPO_BASE_URL" >> "$GITHUB_ENV"
+          else
+            echo "Set repository variable REDFISH_BASE_URL or run manually with base_url." >&2
+            exit 2
+          fi
+      - name: Test unauthenticated access to GET /api/products
         run: python 13-week/workshop/04-security-ci/test_negative_authorization.py
