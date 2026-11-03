@@ -1,6 +1,5 @@
 # Certification C3 — Luis Fernando Claros Ramos
 
-> Complete the remaining fields and replace pending values as you progress through the course. Follow the guide attached to the c3-certification activity in Moodle.
 
 ## Cover
 
