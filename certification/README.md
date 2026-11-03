@@ -18,7 +18,7 @@
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| 2026-11-02 | To be recorded | Started the course; currently working through Chapter 3 | To be added when evidence is organized |
+| 2026-11-02 | To be confirmed | Completed modules 1–6 | To be added when evidence is organized |
 | Total | To be calculated from actual study sessions | | |
 
 ## Labs
