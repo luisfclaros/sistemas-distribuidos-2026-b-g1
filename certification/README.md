@@ -7,7 +7,7 @@
 | Full name | Luis Fernando Claros Ramos |
 | GitHub user | luisfclaros |
 | Group | G1 |
-| Team | Individual submission — working alone |
+| Team | Individual |
 | Team -docs repository | https://github.com/code-corhuila/redfish-docs |
 | Course | HCCDP-Solution Architectures Course |
 | Course link | https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
@@ -32,8 +32,8 @@
 
 ## Final exam
 
-- Score: Pending — enter the actual result after taking the exam
-- Date: Pending — enter the actual exam date
+- Score: 
+- Date: 
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
