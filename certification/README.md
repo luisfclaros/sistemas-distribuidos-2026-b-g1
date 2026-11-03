@@ -1,6 +1,5 @@
 # Certification C3 — Luis Fernando Claros Ramos
 
-
 ## Cover
 
 | Field | Value |
@@ -8,8 +7,8 @@
 | Full name | Luis Fernando Claros Ramos |
 | GitHub user | luisfclaros |
 | Group | G1 |
-| Team | Pending confirmation |
-| Team -docs repository | Pending confirmation |
+| Team | Individual submission — working alone |
+| Team -docs repository | https://github.com/code-corhuila/redfish-docs |
 | Course | HCCDP-Solution Architectures Course |
 | Course link | https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
 | Start date | 2026-11-02 |
@@ -33,8 +32,8 @@
 
 ## Final exam
 
-- Score: 
-- Date: 
+- Score: Pending — enter the actual result after taking the exam
+- Date: Pending — enter the actual exam date
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
