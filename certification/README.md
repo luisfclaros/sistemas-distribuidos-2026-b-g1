@@ -34,8 +34,8 @@
 
 ## Final exam
 
-- Score: Pending — enter the actual result after taking the exam
-- Date: Pending — enter the actual exam date
+- Score: 
+- Date: 
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
