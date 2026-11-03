@@ -18,8 +18,8 @@
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| 2026-11-02 | To be confirmed | Completed modules 1–6 | To be added when evidence is organized |
-| Total | To be calculated from actual study sessions | | |
+| 2026-11-02 | 6 | Completed modules 1–6 | To be added when evidence is organized |
+| Total | 6 | | |
 
 ## Labs
 
@@ -32,8 +32,8 @@
 
 ## Final exam
 
-- Score: 
-- Date: 
+- Score: Pending — enter the actual result after taking the exam
+- Date: Pending — enter the actual exam date
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
