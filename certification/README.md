@@ -1,43 +1,43 @@
-# Certification C3 — <Full name>
+# Certification C3 — Luis Fernando Claros Ramos
 
-> Template of the corte 3 certification. Replace every `<...>` with your data and delete this note. The rules are in the guide attached to the c3-certification activity in Moodle. Text left as `<...>` counts as missing.
+> Complete the remaining fields and replace pending values as you progress through the course. Follow the guide attached to the c3-certification activity in Moodle.
 
 ## Cover
 
 | Field | Value |
 |---|---|
-| Full name | <Full name exactly as in Moodle> |
-| GitHub user | <github-user> |
-| Group | <G1 or G2> |
-| Team | <Team name> |
-| Team -docs repository | <https://github.com/code-corhuila/...-docs> |
-| Course | <Exact course name> |
-| Course link | <Course URL> |
-| Start date | <YYYY-MM-DD> |
-| Completion date | <YYYY-MM-DD> |
+| Full name | Luis Fernando Claros Ramos |
+| GitHub user | luisfclaros |
+| Group | G1 |
+| Team | Pending confirmation |
+| Team -docs repository | Pending confirmation |
+| Course | HCCDP-Solution Architectures Course |
+| Course link | https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
+| Start date | 2026-11-02 |
+| Completion date | Pending — complete after finishing the course |
 
 ## Study log
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| <YYYY-MM-DD> | <h> | <Chapters or labs> | <evidence/NN-....png> |
-| Total | <sum> | | |
+| 2026-11-02 | To be recorded | Started the course; currently working through Chapter 3 | To be added when evidence is organized |
+| Total | To be calculated from actual study sessions | | |
 
 ## Labs
 
 | Evidence file | Lab name | What I built | What failed first and how I fixed it |
 |---|---|---|---|
-| evidence/15-lab-1.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/16-lab-2.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/17-lab-3.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/18-lab-4.png | <Lab name> | <One sentence> | <One sentence> |
+| evidence/15-lab-1.png | Pending — complete after performing the lab | Pending | Pending |
+| evidence/16-lab-2.png | Pending — complete after performing the lab | Pending | Pending |
+| evidence/17-lab-3.png | Pending — complete after performing the lab | Pending | Pending |
+| evidence/18-lab-4.png | Pending — complete after performing the lab | Pending | Pending |
 
 ## Final exam
 
-- Score: <score>
-- Date: <YYYY-MM-DD>
+- Score: Pending — enter the actual result after taking the exam
+- Date: Pending — enter the actual exam date
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
 
-<5 to 7 lines in English, first person, naming at least three concrete design techniques from the course.>
+To be completed after studying the course, in English and in my own words, naming at least three concrete design techniques covered in the course.
