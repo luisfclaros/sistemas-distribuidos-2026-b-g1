@@ -10,7 +10,7 @@
 | Team | Individual |
 | Team -docs repository | https://github.com/code-corhuila/redfish-docs |
 | Course | HCCDP-Solution Architectures Course |
-| Course link | https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
+| Course link | https://e.huawei/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
 | Start date | 2026-11-02 |
 | Completion date | Pending — complete after finishing the course |
 
@@ -18,10 +18,11 @@
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| 2026-11-02 | 6 h | Completed modules 1–6 | To be added when evidence is organized |
+| 2026-11-01 | 3 h | Completed modules 1–3 | [01](evidence/01-chapter-01.png), [02](evidence/02-chapter-02.png), [03](evidence/03-chapter-03.png) |
+| 2026-11-02 | 3 h 30 min | Completed modules 4–6 | [04](evidence/04-chapter-04.png), [05](evidence/05-chapter-05.png), [06](evidence/06-chapter-06.png) |
 | 2026-11-04 | 1 h 47 min | Completed module 7 — Cloud Security Solution Design | [evidence/07-chapter-07.png](evidence/07-chapter-07.png) |
 | 2026-11-04 | 1 h | Completed module 8 — Cloud O&M Solution Design (9:26 p.m.–10:26 p.m.) | [evidence/08-chapter-08.png](evidence/08-chapter-08.png) |
-| Total | 8 h 47 min | | |
+| Total | 9 h 17 min | | |
 
 ## Labs
 
