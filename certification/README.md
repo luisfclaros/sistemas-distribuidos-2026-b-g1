@@ -10,7 +10,7 @@
 | Team | Individual |
 | Team -docs repository | https://github.com/code-corhuila/redfish-docs |
 | Course | HCCDP-Solution Architectures Course |
-| Course link | https://e.huawei/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
+| Course link | https://e.huawei.com/en/talent/outPage/#/sxz-course/home?courseId=I4bs1u--tD4kL8Fg3clrbgvqnhA&operate=1 |
 | Start date | 2026-11-02 |
 | Completion date | Pending — complete after finishing the course |
 
