@@ -20,7 +20,7 @@
 |---|---|---|---|
 | 2026-11-02 | 6 h | Completed modules 1–6 | To be added when evidence is organized |
 | 2026-11-04 | 1 h 47 min | Completed module 7 — Cloud Security Solution Design | [evidence/07-chapter-07.png](evidence/07-chapter-07.png) |
-| 2026-11-04 | 1 h | Completed module 8 — Cloud O&M Solution Design (9:26 p.m.–10:26 p.m.) | Completion screenshot pending |
+| 2026-11-04 | 1 h | Completed module 8 — Cloud O&M Solution Design (9:26 p.m.–10:26 p.m.) | [evidence/08-chapter-08.png](evidence/08-chapter-08.png) |
 | Total | 8 h 47 min | | |
 
 ## Labs
