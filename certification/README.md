@@ -23,7 +23,8 @@
 | 2026-11-04 | 1 h 47 min | Completed module 7 — Cloud Security Solution Design | [evidence/07-chapter-07.png](evidence/07-chapter-07.png) |
 | 2026-11-04 | 1 h | Completed module 8 — Cloud O&M Solution Design | [evidence/08-chapter-08.png](evidence/08-chapter-08.png) |
 | 2026-11-07 | 1 h | Completed module 9 — Distributed Architecture Design | [evidence/09-chapter-09.png](evidence/09-chapter-09.png) |
-| Total | 10 h 17 min | | |
+| 2026-11-07 | 1 h 20 min | Completed module 10 (12:40 p.m.–2:00 p.m.) | Screenshot pending — upload to `certification/evidence/10-chapter-10.png` |
+| Total | 11 h 37 min | | |
 
 ## Labs
 
