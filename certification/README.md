@@ -18,13 +18,13 @@
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| 2026-11-01 | 3 h | Completed modules 1–3 | [01](evidence/01-chapter-01.png), [02](evidence/02-chapter-02.png), [03](evidence/03-chapter-03.png) |
-| 2026-11-02 | 3 h 30 min | Completed modules 4–6 | [04](evidence/04-chapter-04.png), [05](evidence/05-chapter-05.png), [06](evidence/06-chapter-06.png) |
+| 2026-11-01 | 3 h | Completed modules 1–3: Architecture Design Methodology on Huawei Cloud; Typical Service Implementation Solutions on the Cloud; Cloud Compute Solution Design | [01](evidence/01-chapter-01.png), [02](evidence/02-chapter-02.png), [03](evidence/03-chapter-03.png) |
+| 2026-11-02 | 3 h 30 min | Completed modules 4–6: Cloud Storage Solution Design; Cloud Network Solution Design; Cloud Database Solution Design | [04](evidence/04-chapter-04.png), [05](evidence/05-chapter-05.png), [06](evidence/06-chapter-06.png) |
 | 2026-11-04 | 1 h 47 min | Completed module 7 — Cloud Security Solution Design | [evidence/07-chapter-07.png](evidence/07-chapter-07.png) |
 | 2026-11-04 | 1 h | Completed module 8 — Cloud O&M Solution Design | [evidence/08-chapter-08.png](evidence/08-chapter-08.png) |
 | 2026-11-07 | 1 h | Completed module 9 — Distributed Architecture Design | [evidence/09-chapter-09.png](evidence/09-chapter-09.png) |
-| 2026-11-07 | 1 h 20 min | Completed module 10 (12:40 p.m.–2:00 p.m.) | [evidence/10-chapter-10.png](evidence/10-chapter-10.png) |
-| 2026-11-08 | 1 h | Completed module 11 | Screenshot pending — upload to `certification/evidence/11-chapter-11.png` |
+| 2026-11-07 | 1 h 20 min | Completed module 10 — Highly Scalable System Design (12:40 p.m.–2:00 p.m.) | [evidence/10-chapter-10.png](evidence/10-chapter-10.png) |
+| 2026-11-08 | 1 h | Completed module 11 — Disaster Recovery System Design | [evidence/11-chapter-11.png](evidence/11-chapter-11.png) |
 | Total | 12 h 37 min | | |
 
 ## Labs
