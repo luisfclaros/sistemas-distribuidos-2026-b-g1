@@ -25,7 +25,7 @@
 | 2026-11-07 | 1 h | Completed module 9 — Distributed Architecture Design | [evidence/09-chapter-09.png](evidence/09-chapter-09.png) |
 | 2026-11-07 | 1 h 20 min | Completed module 10 — Highly Scalable System Design (12:40 p.m.–2:00 p.m.) | [evidence/10-chapter-10.png](evidence/10-chapter-10.png) |
 | 2026-11-08 | 1 h | Completed module 11 — Disaster Recovery System Design | [evidence/11-chapter-11.png](evidence/11-chapter-11.png) |
-| 2026-11-10 | 22 min | Completed module 12 — Automated Deployment (1:38 p.m.–2:00 p.m.) | Screenshot pending — upload to `certification/evidence/12-chapter-12.png` |
+| 2026-11-10 | 22 min | Completed module 12 — Automated Deployment (1:38 p.m.–2:00 p.m.) | [evidence/12-chapter-12.png](evidence/12-chapter-12.png) |
 | Total | 12 h 59 min | | |
 
 ## Labs
