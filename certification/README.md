@@ -26,7 +26,7 @@
 | 2026-11-07 | 1 h 20 min | Completed module 10 — Highly Scalable System Design (12:40 p.m.–2:00 p.m.) | [evidence/10-chapter-10.png](evidence/10-chapter-10.png) |
 | 2026-11-08 | 1 h | Completed module 11 — Disaster Recovery System Design | [evidence/11-chapter-11.png](evidence/11-chapter-11.png) |
 | 2026-11-10 | 22 min | Completed module 12 — Automated Deployment (1:38 p.m.–2:00 p.m.) | [evidence/12-chapter-12.png](evidence/12-chapter-12.png) |
-| 2026-11-11 | 1 h | Completed module 13 — Containers and Agility | Screenshot pending — upload to `certification/evidence/13-chapter-13.png` |
+| 2026-11-11 | 1 h | Completed module 13 — Containers and Agility | [evidence/13-chapter-13.png](evidence/13-chapter-13.png) |
 | Total | 13 h 59 min | | |
 
 ## Labs
