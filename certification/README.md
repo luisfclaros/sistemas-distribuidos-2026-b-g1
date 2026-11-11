@@ -27,7 +27,8 @@
 | 2026-11-08 | 1 h | Completed module 11 — Disaster Recovery System Design | [evidence/11-chapter-11.png](evidence/11-chapter-11.png) |
 | 2026-11-10 | 22 min | Completed module 12 — Automated Deployment (1:38 p.m.–2:00 p.m.) | [evidence/12-chapter-12.png](evidence/12-chapter-12.png) |
 | 2026-11-11 | 1 h | Completed module 13 — Containers and Agility | [evidence/13-chapter-13.png](evidence/13-chapter-13.png) |
-| Total | 13 h 59 min | | |
+| 2026-11-11 | 1 h | Completed module 14 — Huawei Cloud Advanced Services | Screenshot pending — upload to `certification/evidence/14-chapter-14.png` |
+| Total | 14 h 59 min | | |
 
 ## Labs
 
