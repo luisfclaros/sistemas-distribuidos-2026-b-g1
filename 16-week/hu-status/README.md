@@ -1,6 +1,6 @@
 <!-- HU-STATUS TEMPLATE - do NOT remove the <!-- ... --> markers or the table headers.
 # Weekly Status - Week 16
-<!-- CONFIG-START -->
+<!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
 - FULL_NAME: Luis Fernando Claros Ramos
 - GITHUB_USER: luisfclaros
 - TEAM: Group 1
